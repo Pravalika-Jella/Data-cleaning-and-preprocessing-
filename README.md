@@ -28,11 +28,20 @@ The Titanic dataset used in this task is publicly available:
 - Displays boxplot of the `Fare` column
 
 ---
+## How to Run
 
-## ⚙️ How to Run the Code
+Simple instructions on how to run the code.
+Example:
 
-1. Clone or download this repository  
-2. Make sure the following libraries are installed:
+Install necessary libraries:
+pip install pandas numpy matplotlib seaborn scikit-learn
 
-   ```bash
-   pip install pandas numpy matplotlib seaborn scikit-learn
+## Run the script:
+python datacleaningandpreprocessessing.py
+
+## Technologies Used
+
+-Python 3
+-pandas numpy, matplotlib, seaborn, scikit-learn
+
+
